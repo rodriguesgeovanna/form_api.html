@@ -77,7 +77,7 @@ body {
 }
 
 /* hover */
-.inputbox input:focus, 
+.inputbox input:hover, 
  .inputbox input:valid
  {
     height: 100%;
